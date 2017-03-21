@@ -33,8 +33,6 @@ public class AsyncTaskClass extends AsyncTask<String, Void, String>
 {
     public ArrayList<SpyApp> webList = new ArrayList<SpyApp>();
 
-
-
     int flag=-1;
     public FetchDataListener listener;
 
@@ -209,8 +207,8 @@ public class AsyncTaskClass extends AsyncTask<String, Void, String>
 
                 for (int k=0;k<10;k++){
 
-
                     Log.e("print :",k+"");
+                    Log.e("payal print :",k+"");
                 }
             }
 
