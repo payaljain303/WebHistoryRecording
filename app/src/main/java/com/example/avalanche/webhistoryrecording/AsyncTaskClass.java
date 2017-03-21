@@ -200,5 +200,17 @@ public class AsyncTaskClass extends AsyncTask<String, Void, String>
         if (listener != null)
             listener.onFetchComplete_WebList(webList);
         Log.e("Array value", String.valueOf(webList.size()));
+
+        //Testing......
+
+        for (int i=0;i<7;i++){
+
+        }
+
     }
+
+
+
+
+
 }
