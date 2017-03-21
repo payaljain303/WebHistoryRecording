@@ -205,6 +205,10 @@ public class AsyncTaskClass extends AsyncTask<String, Void, String>
 
         for (int i=0;i<7;i++){
 
+            for (int j=0;i<7;i++){
+
+            }
+
         }
 
     }
